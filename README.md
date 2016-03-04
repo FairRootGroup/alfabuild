@@ -16,15 +16,18 @@ Instant gratification with:
 Possible architectures (tested marked with *):
 
     On Linux, x86-64:
-    RHEL5 / SLC5 compatible: slc5_x86-64
-    RHEL6 / SLC6 compatible: slc6_x86-64
-    RHEL7 / CC7 compatible: slc7_x86-64
-    Ubuntu 14.04 compatible: ubuntu1404_x86-64 (*)
-    Ubuntu 15.04 compatible: ubuntu1504_x86-64
-    Ubuntu 15.10 compatible: ubuntu1510_x86-64
+      RHEL5 / SLC5 compatible: slc5_x86-64
+      RHEL6 / SLC6 compatible: slc6_x86-64
+      RHEL7 / CC7 compatible: slc7_x86-64
+      Ubuntu 14.04 compatible: ubuntu1404_x86-64 (*)
+      Ubuntu 15.04 compatible: ubuntu1504_x86-64
+      Ubuntu 15.10 compatible: ubuntu1510_x86-64
+      Debian GNU/Linux 6 (squeeze) : debian6_x86-64
+      Debian GNU/Linux 7 (wheezy)  : debian7_x86-64
+      Debian GNU/Linux 8 (jessie) : debian8_x86-64
 
     On Mac, x86-64:
-    Mavericks, Yosemite and El-Captain: osx_x86-64 (*)
+      Mavericks, Yosemite and El-Captain: osx_x86-64 (*)
 
 Possible default files (in alfadist):
 
