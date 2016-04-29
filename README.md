@@ -3,14 +3,14 @@
 A simple build tool for ALFA software and its externals. 
 The tool is a fork of the original [ALICE project](https://github.com/alisw/alibuild) 
 Recipes for the externals software are stored in
-[alphadist](https://github.com/FairRootGroup/alfadist)
+[alfadist](https://github.com/FairRootGroup/alfadist)
 
 Instant gratification with:
 
     git clone https://github.com/FairRootGroup/alfabuild.git
     cd alfabuild && git checkout dev && cd - 
     git clone https://github.com/FairRootGroup/alfadist.git
-    cd alfadist && git checkout jul15p2_v-15.07a_merge
+    cd alfadist && git checkout jul15p2_v-15.07a_merge && c-
     alfabuild/alfaBuild -j 8 -a osx_x86-64 --defaults clang build fairsoft
 
 Possible architectures (tested marked with *):
