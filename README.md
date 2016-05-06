@@ -10,7 +10,7 @@ Instant gratification with:
     git clone https://github.com/FairRootGroup/alfabuild.git
     cd alfabuild && git checkout dev && cd - 
     git clone https://github.com/FairRootGroup/alfadist.git
-    cd alfadist && git checkout jul15p2_v-15.07a_merge && c-
+    cd alfadist && git checkout fairsoft_dev-fairroot_dev && cd -
     alfabuild/alfaBuild -j 8 -a osx_x86-64 --defaults clang build fairsoft
 
 Possible architectures (tested marked with *):
